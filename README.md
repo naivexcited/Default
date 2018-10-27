@@ -1,1 +1,1 @@
-# Typora-Theme
+# Sample text
